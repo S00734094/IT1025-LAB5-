@@ -27,8 +27,9 @@ B.Infrastructure Topology and Wireless Mesh are differnt in many ways one for in
 ## Network Design
  My design was a simple network which consited of two computers, printer, router and a wirless access point.
 
-## NSA/CSS
-- The role of the NSA/CSS is to protect and defend National Security systems. It includes networks that contain classified information and other forms of intllegence imnportatnat to the military or Govenment agencies. The NSA runs 24/7 cybersecurity watching for threats and creating defensive measures for National Security Systems.
+## NSA/CSS 
+The role of the NSA/CSS is to protect and defend National Security systems. It includes networks that contain classified information and other forms of intllegence imnportatnat to the military or Govenment agencies. The NSA runs 24/7 cybersecurity watching for threats and creating defensive measures for National Security Systems.
+
 # Cybersecurity and Encryption
 ## Information Systems Security
 
