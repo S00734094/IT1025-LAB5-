@@ -42,11 +42,16 @@ D. Ciphertext is the communication channnel between public and private keys it k
 
 E. We need public key cryptography to cerain things secure like money at banks or with govenment agencies it keeps things hidden until it get to the true recipient.
 
-#Cybersecurity and Encryption. 
-Cryptography
+# Cybersecurity and Encryption. 
+## Cryptography
 The encryption that I chose was hello world as I rotated the wheel the message was changed to several differnt letters that didn't resemble the orignal message I chose. After rotating it the message looked something like this yvccf nficu which is totally diffent from the original message.
+
 C. As I began to type I noticed that if I typed a letter more than once the bar went up higher indicating how many times I typed the word.
+
 D. A Polyalphabetic cipher is a mixed alphabet used to encrypt plain text.
+
 E. As I began to type the message i want to win in the box it changed he message completly in the shift box. I notice in the shift box as well is that there arren't any spaces between each word also.
-Brute-Force
+
+## Brute-Force
+
 Brute force tries to attack every possible decryption key for the cipher. The Kerckhoffs's principal beleives that even though the code is known it should still be hidden or secure.
