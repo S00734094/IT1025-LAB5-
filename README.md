@@ -1,26 +1,31 @@
 # Lucidchart 
 My expericence with the Lucid chart is very minimal although today I got the opportunity use it. I can tell this is a very useful tool to help a wide variety of professionals. It seems to very simple to use but I beleive you have to have a strong idea as to what you actually want to create but the templates will give you some ideas as to where you may want to go with your vision. I do like the fact that there are plenty of templates to choose from also.
 # Introduction to Networking 
-Data Transmission
+## Data Transmission
 
 1.Protocol-Set of rules to allow devices to communicate.
 
 2. Packet- Unit of data.
 
- 3.Packet-Switching- Technology that allows packets of data to be routed based on destination address.
+3.Packet-Switching- Technology that allows packets of data to be routed based on destination address.
  .4IP Address- Unique identifying number.
  
- 5.DNS- Directory of IP address common names.  For example 54.239.26.214 might be the IP address of amazon.com
+5.DNS- Directory of IP address common names.  For example 54.239.26.214 might be the IP address of amazon.com
  
 6.All of these terms are used to comminucate with internet in some way.
 
 ## Networking Hardware
 A. The benefit of a switch over a hub is that a switch is considered to be intellegent it has multi ports, it can learn and keep record of MAC addresses and it can also detect certain devices that are connected to it compared to a Hub.
+
 B.The benefit of a router is that they are used to connect to networks while Hubs and Switches connect to LAN'S. They have the ability to read IP addresses while switches and hubs can't. Routers have the ability to reject information if it's not intended for their network as well.
-Network Topologies
+
+## Network Topologies
 A. A single ponit of failure is part of a system where if it fails the entire network will stop or go down. The Topology that experiences this is call a Star Topology.
+
 B.Infrastructure Topology and Wireless Mesh are differnt in many ways one for instance is the with a wireless mesh there's less cabling  and if one network looses it's access point or fails it will re route it to the nearest data center. I think that the wireless mess is better becuase of the fact there's less cabling that makes it easier to place routers in locations where they can't be seen.
+
 Network Design- My design was a simple network which consited of two computers, printer, router and a wirless access point.
+
 NSA/CSS- The role of the NSA/CSS is to protect and defend National Security systems. It includes networks that contain classified information and other forms of intllegence imnportatnat to the military or Govenment agencies. The NSA runs 24/7 cybersecurity watching for threats and creating defensive measures for National Security Systems.
 #Cybersecurity and Encryption
 Information Systems Security
