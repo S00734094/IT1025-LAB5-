@@ -3,6 +3,7 @@ My expericence with the Lucid chart is very minimal although today I got the opp
 # Introduction to Networking 
 Data Transmission
 1.Protocol-Set of rules to allow devices to communicate.
+
 2. Packet- Unit of data.
  3.Packet-Switching- Technology that allows packets of data to be routed based on destination address.
  .4IP Address- Unique identifying number.
