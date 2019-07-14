@@ -1,1 +1,2 @@
-# IT1025-LAB5-
+# Lucidchart 
+My expericence with the Lucid chart is very minimal although today I got the opportunity use it. I can tell this is a very useful tool to help a wide variety of professionals. It seems to very simple to use but I beleive you have to have a strong idea as to what you actually want to create but the templates will give you some ideas as to where you may want to go with your vision. I do like the fact that there are plenty of templates to choose from also.
